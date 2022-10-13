@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="170baee8-24de-42fa-a84a-c1ce6d466ac7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoteControlEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searchable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SmartTelevision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DefaultMethodEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyIntercace2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,14 @@
       <recent name="C:\java505\intelliJ\chap06\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.DefaultMethodEx">
+    <configuration name="DefaultMethodEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DefaultMethodEx" />
+      <module name="chap06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ImplEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ImplEx" />
       <module name="chap06" />
@@ -64,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.DefaultMethodEx" />
         <item itemvalue="애플리케이션.ImplEx" />
       </list>
     </recent_temporary>
@@ -78,7 +88,9 @@
       <updated>1665541586075</updated>
       <workItem from="1665541587364" duration="445000" />
       <workItem from="1665543056906" duration="11588000" />
-      <workItem from="1665558361700" duration="143000" />
+      <workItem from="1665558361700" duration="439000" />
+      <workItem from="1665619181726" duration="3434000" />
+      <workItem from="1665624484469" duration="32000" />
     </task>
     <servers />
   </component>
